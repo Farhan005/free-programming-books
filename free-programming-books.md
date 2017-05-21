@@ -515,6 +515,9 @@
 * [openHPI](https://open.hpi.de)
 * [Platzi](https://courses.platzi.com)
 * [Udacity](https://www.udacity.com)
+* [Udemy](www.udemy.com)
+* [openclassrooms](www.openclassrooms.com)
+* [MOOC List](www.mooc-list.com)
 
 
 #### Networking
